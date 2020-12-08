@@ -1,7 +1,7 @@
-### Deployed project:
+## Deployed project:
 https://mistesq.github.io/todo-app/
 
-# Stack: React, scss, bootstrap
+### Stack: React, scss, bootstrap
 
 # Getting Started with Create React App
 
