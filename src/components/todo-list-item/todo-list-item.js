@@ -3,22 +3,6 @@ import './todo-list-item.scss';
 
 
 class TodoListItem extends Component {
-
-  // onLabelClick = () => {
-  //   this.setState(({ done }) => {
-  //     return {
-  //       done: !done
-  //     }
-  //   });
-  // };
-
-  // onMarkImportant = () => {
-  //   this.setState(({ important }) => {
-  //     return {
-  //       important: !important
-  //     }
-  //   });
-  // };
   
   render() {
     const { label, onDeleted, onToggleImportant, onToggleDone, done, important } = this.props;
